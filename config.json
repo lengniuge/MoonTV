@@ -16,7 +16,7 @@
       "name": "如意资源"
     },
     "bfzy": {
-      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "api": "http://by.bfzyapi.com/api.php/provide/vod/",
       "name": "暴风资源"
     },
     "tyyszy": {
